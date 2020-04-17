@@ -1,0 +1,14 @@
+body{
+  background-color: #F3F3F3;
+}
+
+.todoClass {
+  background-color: white;
+  box-shadow: 2px 2px 2px lightgrey;
+  border-radius: 7px;
+  width: 31rem;
+  height: 20vh;
+  margin: 20px auto;
+  padding: 15px;
+  text-align: center;
+}
